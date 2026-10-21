@@ -39,7 +39,7 @@ One row per map, sorted by release date. Stats are from [fortnite.gg](https://fo
 | `max_players` | Player limit per match |
 | `updates_published`, `last_updated` | Number of published versions and the date of the latest one |
 | `status` | `Live` or `Disabled` (no longer playable) |
-| `studio_account` | Account the map was published under. I worked in several game studios and founded my own, and each map went out under the account of the studio it was made in |
+| `studio_account` | Account the map was published under. I worked in several game studios and founded my own (`hmos`), and each map went out under the account of the studio it was made in |
 | `tags` | The map's Fortnite tags |
 
 ## Run it
